@@ -1,0 +1,164 @@
+### Step 2A
+
+mmrod@DESKTOP-Q0AEGNI MINGW64 ~
+$ pwd
+/c/Users/mmrod
+
+
+### Step 2B
+
+$ cd /c/Users/mmrod/Desktop/
+
+mmrod@DESKTOP-Q0AEGNI MINGW64 ~/Desktop
+
+### Step 2C
+
+$ cd unit1-git-practice/
+
+mmrod@DESKTOP-Q0AEGNI MINGW64 ~/Desktop/unit1-git-practice
+
+### Step 2D
+
+$ pwd
+/c/Users/mmrod/Desktop/unit1-git-practice
+
+### Step 2E
+
+$ ls
+ my-steps.txt  '~$-steps.txt'
+
+### Step 2F
+
+$ ls
+ my-steps.txt  '~$-steps.txt'
+
+
+### Step 2G
+
+cd ~
+
+### Step 2H
+
+$ pwd
+/c/Users/mmrod
+
+### Step 2I
+
+$ ls
+'3D Objects'/
+ AppData/
+ Apple/
+'Application Data'@
+ Contacts/
+ Cookies@
+'Creative Cloud Files'/
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ ansel/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+ source/
+
+
+### Step 2J
+
+Cd ~
+
+### Step 2K
+
+$ cd /c/Users/mmrod/Desktop/unit1-git-practice/
+
+mmrod@DESKTOP-Q0AEGNI MINGW64 ~/Desktop/unit1-git-practice
+
+
+### Step 3A
+
+
+
+### Step 3B
+
+
+### Step 3C
+
+
+
+### Step 3D
+
+
+
+### Step 3E
+
+
+
+### Step 3F
+
+
+
+### Step 3G
+
+
+
+### Step 3H
+
+
+
+### Step 3I
+
+
+
+### Step 3J
+
+
+
+### Step 3K
+
+
+
+### Step 3L
+
+
+
+### Step 3M
+
+
+
+### Step 3N
+
+
+
+### Step 4
+
+
+
+### Step 5
+
+
+
+### Step 6
+
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
